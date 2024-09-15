@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Ghafoor</h1>
-<h3 align="center">A passionate Full-stack developer</h3>
+<h3 align="center">A passionate Front-end developer</h3>
 
 <p align="center">
     <a href="https://streak-stats.demolab.com?user=Malik-Abdul"><img src="https://streak-stats.demolab.com?user=Malik-Abdul"/></a>
