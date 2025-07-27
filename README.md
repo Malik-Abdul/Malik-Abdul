@@ -32,7 +32,7 @@
 <img 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
   title="Express.js" 
-  height="15" 
+  height="16" 
   style="background-color:white; border-radius:4px; padding:1px;"
 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" height="20"/>
