@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abdul Ghafoor
 
-## A passionate Full-Stack Developer
+## 💻 A passionate Full-Stack Developer
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="20"/>
@@ -63,13 +63,21 @@
 
 ---
 
-- 📫 How to reach me **agawan786@gmail.com**
+## 📫 How to reach me
 
-- Connect with me:
-  <a href="https://www.linkedin.com/in/abdul-ghafoor786/" target="blank">
+**agawan786@gmail.com**
+
+## 🤝 Connect with me
+
+  <br/>
+  <a href="https://www.linkedin.com/in/abdul-ghafoor786/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" />
-  </a>
-  <a href="https://www.leetcode.com/abdul2526" target="blank">
+  &nbsp;LinkedIn
+  </a>  
+  <br/>
+  <a href="https://www.leetcode.com/abdul2526" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="20" width="20" />
-  </a>
-  <span style="margin-left:10px;">📞 +92-308-4205586 / +92-332-5881593</span>
+  &nbsp;LeetCode
+  </a>  
+  <br/>
+  📞 +92-308-4205586 / +92-332-5881593
