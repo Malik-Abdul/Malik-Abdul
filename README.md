@@ -77,5 +77,4 @@
 <a href="https://www.leetcode.com/abdul2526" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="20" width="20" />
   &nbsp;<strong>LeetCode</strong>
-</a> &nbsp; | &nbsp;
-📞 <strong>+92-308-4205586</strong> / <strong>+92-332-5881593</strong>
+</a>
