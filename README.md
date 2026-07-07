@@ -55,6 +55,7 @@
 - Node.js / Express.js
 - MongoDB / Mongoose
 - MySQL / Drizzle ORM
+- PostgreSQL / TypeORM
 - Python / Django
 - HTML5 / CSS3
 - Tailwind CSS / Bootstrap / Material UI / Ant Design / Storybook
