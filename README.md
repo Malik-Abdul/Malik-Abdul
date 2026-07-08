@@ -48,20 +48,96 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Malik-Abdul)
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
-- JavaScript / TypeScript
-- React.js / Next.js
-- Node.js / Express.js
-- MongoDB / Mongoose
-- MySQL / Drizzle ORM
-- PostgreSQL / TypeORM
-- Python / Django
-- HTML5 / CSS3
-- Tailwind CSS / Bootstrap / Material UI / Ant Design / Storybook
-- Git / GitHub
+### 💻 Languages
+- JavaScript (ES6+)
+- TypeScript
+- Python
+- PHP
+- HTML5
+- CSS3
+
+### ⚛️ Frontend
+- React.js
+- Next.js
+- React Query
+- Redux
+- React Hook Form
+- Tailwind CSS
+- Ant Design
+- Material UI
+- Bootstrap
+- Storybook
+
+### 🔧 Backend
+- Node.js (NestJS, Express.js)
+- Laravel
+- Django
+- REST APIs
+- GraphQL
+- Microservices
+
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+
+### 🏗️ ORMs & ODMs
+- TypeORM
+- Drizzle ORM
+- Mongoose
+
+### 🔐 Authentication & Security
+- OAuth 2.0
+- OpenID Connect (OIDC)
+- JWT
+- Single Sign-On (SSO)
+- RBAC
+- NextAuth.js
+
+### ☁️ Cloud & DevOps
+- Microsoft Azure
+- AWS (S3, SES)
 - Docker
-- Axios / REST APIs / GraphQL / Elasticsearch
+- CI/CD
+
+### ⚡ Performance
+- Redis (Caching & Rate Limiting)
+- Elasticsearch
+
+### 🧪 Testing
+- Cypress
+- Postman
+
+### 🔄 Version Control
+- Git
+- GitHub
+
+### 🔌 Third-Party Integrations
+- Google APIs
+- Facebook APIs
+- SendGrid
+- Authorize.Net
+- PayPal
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **Qudra AI Assessment Platform** | AI-powered online assessment platform with recruiter and candidate portals. |
+| **Recruiter Portal** | Enterprise recruitment management platform with AI-driven workflows. |
+| **Candidate Portal** | Candidate onboarding and assessment experience. |
+| **Bayut profolio** | Property portfolio management platform for Bayut (UAE). |
+| **Dubizzle profolio** | Portfolio management platform for Dubizzle. |
+
+- 🌐 https://qudra-tech.ai
+- 🌐 https://rec-qudra-dev.hcms.ai
+- 🌐 https://cand-qudra-dev.hcms.ai
+- 🌐 https://www.bayut.com/profolio/signin
+- 🌐 https://dubizzle.com/profolio/signin
 
 ---
 
