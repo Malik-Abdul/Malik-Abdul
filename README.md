@@ -1,6 +1,12 @@
 # Hi 👋, I'm Abdul Ghafoor
 
-## 💻 A passionate Full-Stack Developer
+## 💻 Senior Full-Stack Software Engineer
+
+- 💼 Senior Full-Stack Software Engineer with 7+ years of experience
+- ⚛️ Specialized in React, Next.js, Node.js, and NestJS
+- ☁️ Experienced with Azure, AWS, Docker, and CI/CD
+- 🤖 Building AI-powered SaaS applications and enterprise solutions
+- 🌱 Currently exploring LLMs, AI Agents, and RAG systems
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="20"/>
@@ -50,76 +56,21 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-- JavaScript (ES6+)
-- TypeScript
-- Python
-- PHP
-- HTML5
-- CSS3
+## 🛠️ Tech Stack
 
-### ⚛️ Frontend
-- React.js
-- Next.js
-- React Query
-- Redux
-- React Hook Form
-- Tailwind CSS
-- Ant Design
-- Material UI
-- Bootstrap
-- Storybook
-
-### 🔧 Backend
-- Node.js (NestJS, Express.js)
-- Laravel
-- Django
-- REST APIs
-- GraphQL
-- Microservices
-
-### 🗄️ Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-
-### 🏗️ ORMs & ODMs
-- TypeORM
-- Drizzle ORM
-- Mongoose
-
-### 🔐 Authentication & Security
-- OAuth 2.0
-- OpenID Connect (OIDC)
-- JWT
-- Single Sign-On (SSO)
-- RBAC
-- NextAuth.js
-
-### ☁️ Cloud & DevOps
-- Microsoft Azure
-- AWS (S3, SES)
-- Docker
-- CI/CD
-
-### ⚡ Performance
-- Redis (Caching & Rate Limiting)
-- Elasticsearch
-
-### 🧪 Testing
-- Cypress
-- Postman
-
-### 🔄 Version Control
-- Git
-- GitHub
-
-### 🔌 Third-Party Integrations
-- Google APIs
-- Facebook APIs
-- SendGrid
-- Authorize.Net
-- PayPal
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | JavaScript, TypeScript, Python, PHP, HTML5, CSS3 |
+| **Frontend** | React.js, Next.js, Redux, React Query, React Hook Form, Tailwind CSS, Ant Design, Material UI, Bootstrap, Storybook |
+| **Backend** | Node.js, NestJS, Express.js, Laravel, Django, REST APIs, GraphQL, Microservices |
+| **Databases** | PostgreSQL, MySQL, MongoDB |
+| **ORMs / ODMs** | TypeORM, Drizzle ORM, Mongoose |
+| **Authentication & Security** | OAuth 2.0, OpenID Connect (OIDC), JWT, RBAC, Single Sign-On (SSO), NextAuth.js |
+| **Cloud & DevOps** | Microsoft Azure, AWS (S3, SES), Docker, CI/CD |
+| **Caching & Search** | Redis (Caching & Rate Limiting), Elasticsearch |
+| **Testing** | Cypress, Postman |
+| **Version Control** | Git, GitHub |
+| **Third-Party Integrations** | Google APIs, Facebook APIs, SendGrid, Authorize.Net, PayPal |
 
 ---
 
