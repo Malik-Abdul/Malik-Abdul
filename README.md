@@ -56,8 +56,6 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 | Category | Technologies |
 |----------|--------------|
 | **Languages** | JavaScript, TypeScript, Python, PHP, HTML5, CSS3 |
