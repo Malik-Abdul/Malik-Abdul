@@ -3,7 +3,7 @@
 ## 💻 Senior Full-Stack Software Engineer
 
 - 💼 Senior Full-Stack Software Engineer with 7+ years of experience
-- ⚛️ Specialized in React, Next.js, Node.js, and NestJS
+- ⚛️ Specialized in React, Next.js and Node.js(Express.js, NestJS)
 - ☁️ Experienced with Azure, AWS, Docker, and CI/CD
 - 🤖 Building AI-powered SaaS applications and enterprise solutions
 - 🌱 Currently exploring LLMs, AI Agents, and RAG systems
