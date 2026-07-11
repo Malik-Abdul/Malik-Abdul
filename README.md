@@ -83,8 +83,8 @@
 | **Dubizzle profolio** | Portfolio management platform for Dubizzle. |
 
 - 🌐 https://qudra-tech.ai
-- 🌐 https://rec-qudra-dev.hcms.ai
-- 🌐 https://cand-qudra-dev.hcms.ai
+- 🌐 https://rec-qudra-dev.ibhc.ai/welcome
+- 🌐 https://cand-qudra-dev.ibhc.ai/welcome
 - 🌐 https://www.bayut.com/profolio/signin
 - 🌐 https://dubizzle.com/profolio/signin
 
