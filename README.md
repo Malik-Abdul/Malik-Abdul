@@ -62,7 +62,7 @@
 | **AI / Machine Learning** | Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), Generative AI, LangChain, Hugging Face, Vector Embeddings, Semantic Search, Cohere Rerank, pgvector |
 | **Frontend** | React.js, Next.js, Redux, React Query, React Hook Form, Tailwind CSS, Ant Design, Material UI, Bootstrap, Storybook |
 | **Backend** | Node.js, NestJS, Express.js, Laravel, Django, REST APIs, GraphQL, Microservices |
-| **Databases** | PostgreSQL, MySQL, MongoDB |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Vector Database |
 | **ORMs / ODMs** | TypeORM, Drizzle ORM, Mongoose |
 | **Authentication & Security** | OAuth 2.0, OpenID Connect (OIDC), JWT, RBAC, Single Sign-On (SSO), NextAuth.js |
 | **Cloud & DevOps** | Microsoft Azure, AWS (S3, SES), Docker, CI/CD |
