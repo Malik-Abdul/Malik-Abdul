@@ -6,7 +6,7 @@
 - ⚛️ Specialized in React, Next.js and Node.js(Express.js, NestJS)
 - ☁️ Experienced with Azure, AWS, Docker, and CI/CD
 - 🤖 Building AI-powered SaaS applications and enterprise solutions
-- 🌱 Currently exploring LLMs, AI Agents, and RAG systems
+- 🌱 Working with LLMs, RAG, AI Agents, and intelligent automation
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="20"/>
