@@ -1,12 +1,13 @@
 # Hi 👋, I'm Abdul Ghafoor
 
-## 💻 Senior Full-Stack Software Engineer & Team Lead @ Aslase | AI Applications | RAG | LLMs | React | Next.js | NestJS | PostgreSQL | vector database | MongoDB | My SQL
+## 💻 Senior Full-Stack Software Engineer & Team Lead @ Aslase | AI Applications | RAG | LLMs | React | Next.js | NestJS |.NET | PostgreSQL | vector database | MongoDB | My SQL
 
 - 💼 Senior Full-Stack Software Engineer with 7+ years of experience
 - ⚛️ Specialized in React, Next.js and Node.js(Express.js, NestJS)
 - ☁️ Experienced with Azure, AWS, Docker, and CI/CD
 - 🤖 Building AI-powered SaaS applications and enterprise solutions
 - 🌱 Working with LLMs, RAG, AI Agents, and intelligent automation
+- 🏢 Experienced with .NET and ERP application development
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="20"/>
